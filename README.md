@@ -96,17 +96,17 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/VoyagerX21/Puzzle" title="Feeds"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Puzzle&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VoyagerX21/DSA" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=DSA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VoyagerX21/DSA" title="Data Structures and Algorithms"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=DSA&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/VoyagerX21/Bubble-game" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Bubble-game&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/VoyagerX21/Bing-Puzzle" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Bing-Puzzle&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/VoyagerX21/Bubble-game" title="Bubble game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Bubble-game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VoyagerX21/Bing-Puzzle" title="Bing Puzzle"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Bing-Puzzle&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a href="https://github.com/VoyagerX21/Tic_Tac_Toe" title="Needleman Wunsch Algorithm With OpenMP"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Tic_Tac_Toe&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!-- <a align="right" href="https://github.com/VoyagerX21/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <a align="left" href="https://github.com/VoyagerX21/Tic_Tac_Toe" title="Tic Tac Tow"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=Tic_Tac_Toe&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/VoyagerX21/listrindex" title="listrindex"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=VoyagerX21&repo=listrindex&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
