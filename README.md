@@ -9,6 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gourav-khakse-586337216/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/u/khakse_0003/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://codolio.com/profile/VoyagerX21" title="Codolio Profile"><img width="22" src="images/codolio.png"> Codolio</a></code>
   <code><a href="https://www.geeksforgeeks.org/user/voyager21/" title="GeeksForGeeks Profile"><img width="22" src="images/gfg.svg"> GeeksForGeeks</a></code>
   <code><a href="https://www.instagram.com/_gaurav.khakse_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
