@@ -82,15 +82,7 @@
       <img align="right" width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=VoyagerX21&theme=react-dark&bg_color=20232a&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-
-  <div align="center">
-    <img width=390 src="https://api.githubtrends.io/user/svg/VoyagerX21/repos?time_range=one_year&include_private=True&theme=dark" 
-         alt="GitHub Trends" />
-  </div>
 </p>
-
-<hr>
 
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
