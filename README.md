@@ -57,6 +57,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="flask" height="25" src="images/flask.svg"></code>
 </p>
 <hr>
 
