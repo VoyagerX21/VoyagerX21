@@ -71,15 +71,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=VoyagerX21&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="100%" height="200px"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoyagerX21&theme=gotham&hide_border=false" width="100%" height="200px"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoyagerX21&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="200px"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=VoyagerX21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="200px"/>
       </td>
     </tr>
   </table>
